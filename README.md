@@ -1,14 +1,29 @@
 # Digital-Literacy-Project-2k26
+VIT Bhopal University | CSE0001 – Digital Literacy
 
-🎓 First-Year Engineering Portfolio:
-Digital Literacy & ProfessionalismBhaskar Pathak | 25BCE11247 | VIT Bhopal University
-Welcome to my professional development repository!
-This project documents my transition into the world of Computer Science, covering everything from manual Machine Learning to cybersecurity ethics and formal communication.
-🚀 Project OverviewThis portfolio is divided into five core tasks. Each task was designed to build a specific skill set required for a modern software engineer: technical logic, information design, data analysis, and professional ethics.
-📂 Task Breakdown1.
-Digital Literacy Awareness (Task 1 & 3B)I began by exploring the foundational tools every student needs to succeed in a digital-first academic environment.Infographic: I designed a visual guide identifying essential tools like Grammarly, Evernote, and Google Calendar to help peers manage their academic workload.Data Analytics:
-I created a Digital Literacy Awareness Quiz using Google Forms to test user knowledge on safe internet practices.Results: The data showed a 100% success rate in identifying safe passwords and proper protocols for handling suspicious links.2. Professional Identity & Coding (Task 2 & 3A)Establishing a digital presence is key to a developer's career.Platforms:
-I set up professional profiles on LinkedIn, GitHub, and Stack Overflow to begin networking and documenting my code.HackerRank: I successfully solved the Java If-Else challenge, earning my first 10 points toward the Java badge.3. Professional Communication 
-(Task 4)Communication is the bridge between a coder and the rest of the world.Formal Emails: I drafted a respectful assignment extension request for my MAT-2005 course and a summer internship application highlighting my skills in Java and Python.Collaboration Ethics: I wrote a case study on how poor communication—like vague messages in group chats—can lead to duplicated work and stress.Social Media Checklist: I developed a "Do's and Don'ts" guide to ensure my online presence remains professional and positive.4. Cybersecurity & Prevention
-(Task 5)As a CSE student, I have a responsibility to understand and promote online safety.Cyberbullying Case Study: I analyzed the escalation of online harassment, noting that 59% of teens have experienced cyberbullying, which can lead to anxiety and poor academic performance.Financial Safety: I created a Prevention Checklist focusing on UPI safety, warning users never to share OTPs or UPI PINs and to report fraud immediately to the National Cyber Crime Helpline (1930).5. Technical Spotlight: Student Marks PredictorMy primary technical project is a Multiple Linear Regression model.The Logic: Built in pure Python without external libraries to understand the raw math of Stochastic Gradient Descent.The Goal: Predicting final percentages based on study hours, sleep, and attendance patterns.🛠️ Tech Stack & ToolsLanguages: Java, Python, CDesign: Information Design (Infographics)Platforms: GitHub, LinkedIn, HackerRank, Google FormsFocus: Artificial Intelligence & Machine Learning💡 ReflectionThrough these tasks,
-I've learned that being a successful engineer isn't just about the code you write; it’s about how you protect your data, how you communicate with your team, and how you present yourself to the professional world.
+About Me
+Name — Bhaskar Pathak
+Reg No. — 25BCE11247
+Branch — Computer Science (Core)
+Year — First Year B.Tech
+University — VIT Bhopal
+
+---
+
+##What This Project Is About
+
+This is my Digital Literacy Portfolio made as part of the CSE0001 course at VIT Bhopal. The project covers five tasks — designing an infographic, building a digital presence, exploring coding platforms, writing professional emails, and learning about cybercrime. All the work is organized in this repository.
+
+---
+
+##Task Summaries
+
+Task 1 — Infographic Made a one page digital literacy infographic on Canva covering what digital literacy means, useful tools for students, and safe internet practices.
+
+Task 2 — Digital Portfolio Set up profiles on GitHub, LinkedIn, and HackerRank to start building a professional online presence. 🔗 GitHub | LinkedIn | HackerRank
+
+Task 3 — Coding & Collaboration Completed medium level challenge on HackerRank and built a 5 question Digital Literacy Quiz on Google Forms for my batchmates. 🔗 Take the Quiz
+
+Task 4 — Email Etiquette Wrote two professional emails — one to a professor requesting a deadline extension and one to an internship coordinator at Intel. Also made a social media do's and don'ts checklist for students.
+
+Task 5 — Cybercrime Awareness Wrote a case study on UPI/Online Payment Fraud including how AI voice cloning is used to trick people. Made a prevention checklist with 8 actionable tips for college students in India. 🚨 Report cybercrime at cybercrime.gov.in or call 1930
